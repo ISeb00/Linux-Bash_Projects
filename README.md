@@ -1,2 +1,2 @@
 # BIOL668_Linux_Project
-Project for Biol 668 Linux module
+Linux project involving bash scripts that create and manipulate files and directories.
