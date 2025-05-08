@@ -5,7 +5,7 @@ Linux project involving bash scripts that create and manipulate files and direct
 2. Unzip bigdata.fna.gz
 3. Run SEBOR_project_bash.sh in home directory
 
-$./SEBOR_project_bash.sh
+    $./SEBOR_project_bash.sh
 >This creates a directory called RAW_DATA, copies all .fna and .csv files in the home directory into RAW_DATA, and creates P_DATA and RESULTS directories. It then adds all three directories to your $PATH and writes the $PATH, the string 'RAW_DATA', and the contents of the RAW_DATA directory to readme.txt. It also dumps the contents of readme.txt to the terminal.
 4. Run SEBOR_fasta_script.sh within RAW_DATA
 
